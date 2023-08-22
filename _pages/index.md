@@ -13,5 +13,5 @@ Acompáñame en este viaje, donde compartiré recursos, tutoriales y experiencia
 </p>
 
 
-[Ir a whoami](https://willeonardo19.github.io/cyber/).
+[Ir a whoami](https://willeonardo19.github.io/will/).
 
