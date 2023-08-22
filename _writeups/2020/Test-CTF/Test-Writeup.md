@@ -9,6 +9,6 @@ comments: true
 tags: test crypto
 ---
 
-This is a Test Writeup for Test CTF.
+This is a Test Writeup for Test CTF WilL.
 
 Add the assets in `assets/CTFs/<CTF_Name>/<File_Name>` and link to it here.
