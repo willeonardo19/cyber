@@ -13,5 +13,5 @@ Acompáñame en este viaje, donde compartiré recursos, tutoriales y experiencia
 </p>
 
 
-[Ir a whoami:](https://willeonardo19.github.io/WilL/).
+[Ir a whoami](https://willeonardo19.github.io/WilL/).
 
