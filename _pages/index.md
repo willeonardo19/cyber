@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## ¡Bienvenido al Mundo de la Ciberseguridad y el Hacking Ético!
+## ¡Bienvenido al Mundo de la Ciberseguridad 
+## y el Hacking Ético!
 
 <p style="text-align: justify;">
 Mi objetivo es compartir mi pasión y conocimiento sobre ciberseguridad y hacking ético.Te guiaré a través de emocionantes aventuras autodidactas. Mi misión es fomentar la comprensión de las vulnerabilidades en los sistemas, explorar la mentalidad de los atacantes y aprender cómo proteger lo que más valoras.
