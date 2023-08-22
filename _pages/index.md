@@ -2,12 +2,8 @@
 layout: default
 ---
 
-<ul>
-    {% for post in paginator.posts %}
-      <li>
-          <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
-      </li>
-    {% endfor %}
-</ul>
+## ¡Bienvenido al Mundo de la Ciberseguridad y el Hacking Ético!
+
+<p style="text-align: justify;">
+Mi objetivo es compartir mi pasión y conocimiento sobre ciberseguridad y hacking ético.Te guiaré a través de emocionantes aventuras autodidactas. Mi misión es fomentar la comprensión de las vulnerabilidades en los sistemas, explorar la mentalidad de los atacantes y aprender cómo proteger lo que más valoras. Acompáñame en este viaje, donde compartiré recursos, tutoriales y experiencias, juntos exploraremos este emocionante terreno de la ciberseguridad. ¡Vamos a comenzar esta emocionante travesía juntos!
+</p>
