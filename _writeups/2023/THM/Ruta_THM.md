@@ -1,7 +1,7 @@
 ---
 layout: writeup
 category: THM
-chall_description: https://i.imgur.com/AVkxBbO.png
+chall_description: 
 points: 0
 solves: 0
 date: 2023-11-30
