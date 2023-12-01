@@ -17,5 +17,6 @@ tags: thm ruta
 
 ### Path THM
 
-![Octocat](https://github.com/willeonardo19/cyber/blob/master/assets/images/Path%20THM.png)
-
+![Path THM](../../../assets/images/Path%20THM.png)
+![Octocat](../../../assets/images/Path%20THM.png)
+![Branching](../../../assets/images/Path%20THM.png)
