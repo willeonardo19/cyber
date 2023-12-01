@@ -9,7 +9,7 @@ comments: true
 tags: thm ruta
 ---
 <h2>Ruta de THM</h2>
-<p>Explorar el vasto mundo de la ciberseguridad puede ser abrumador, pero estoy aquí para compartir una ruta sugerida que te ayudará a aprovechar al máximo la plataforma Try Hack Me. Esta guía flexible está diseñada para adaptarse a tus necesidades y preferencias de aprendizaje.</p><br>
+<p>Explorar el vasto mundo de la ciberseguridad puede ser abrumador, pero estoy aquí para compartir una ruta sugerida que te ayudará a aprovechar al máximo la plataforma Try Hack Me. Esta guía flexible está diseñada para adaptarse a tus necesidades y preferencias de aprendizaje.</p>
 <p>En primer lugar, familiarízate con la plataforma. Dedica tiempo a explorarla, comprende la interfaz y siéntete cómodo en este espacio educativo. Una vez que te sientas listo, inicia tu viaje con los módulos introductorios que establecerán una base sólida en ciberseguridad. Aborda conceptos esenciales como ética hacker, redes y sistemas operativos.</p><br>
 <p>Si prefieres una estructura más formal, considera seguir explora los Pathways que te guiarán a través de un aprendizaje más estructurado. Ponte a prueba con desafíos y salas temáticas para aplicar tus conocimientos de manera práctica.</p><br>
 <p>No te olvides de sumergirte en la comunidad de Try Hack Me. Conéctate con otros aprendices, comparte tus experiencias y colabora en desafíos. Mantente actualizado con las últimas tendencias de ciberseguridad y explora constantemente nuevas salas y módulos para seguir desafiándote.</p><br>
