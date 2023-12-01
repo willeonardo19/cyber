@@ -14,4 +14,6 @@ tags: thm ruta
 <p>Si prefieres una estructura más formal, considera seguir explora los Pathways que te guiarán a través de un aprendizaje más estructurado. Ponte a prueba con desafíos y salas temáticas para aplicar tus conocimientos de manera práctica.</p><br>
 <p>No te olvides de sumergirte en la comunidad de Try Hack Me. Conéctate con otros aprendices, comparte tus experiencias y colabora en desafíos. Mantente actualizado con las últimas tendencias de ciberseguridad y explora constantemente nuevas salas y módulos para seguir desafiándote.</p><br>
 <p>Recuerda, esta ruta es simplemente una sugerencia. Adáptala a tus metas y preferencias personales. La flexibilidad es clave en este emocionante viaje de aprendizaje en ciberseguridad. ¡Que disfrutes del proceso y encuentres tu propio camino hacia el éxito!</p><br>
-<p></p><br>
+<p>### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)</p><br>
