@@ -18,5 +18,4 @@ tags: thm ruta
 ### Path THM
 
 ![Path THM](../../../assets/images/Path%20THM.png)
-![Octocat](../../../assets/images/Path%20THM.png)
-![Branching](../../../assets/images/Path%20THM.png)
+
