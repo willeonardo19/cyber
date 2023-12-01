@@ -17,4 +17,5 @@ tags: thm ruta
 
 ### Path THM
 
-![Branching](https://github.com/willeonardo19/cyber/blob/master/assets/images/Path%20THM.png)</p><br>
+![Branching](https://github.com/willeonardo19/cyber/blob/master/assets/images/Path%20THM.png)
+
