@@ -16,4 +16,4 @@ tags: thm ruta
 <p>Recuerda, esta ruta es simplemente una sugerencia. Adáptala a tus metas y preferencias personales. La flexibilidad es clave en este emocionante viaje de aprendizaje en ciberseguridad. ¡Que disfrutes del proceso y encuentres tu propio camino hacia el éxito!</p><br>
 <p>### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)</p><br>
+![Path THM](https://github.com/willeonardo19/cyber/blob/master/assets/images/Path%20THM.png)</p><br>
